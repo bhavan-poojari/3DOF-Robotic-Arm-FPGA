@@ -56,7 +56,7 @@ This project focuses on designing a 3-DOF robotic arm with a gripper, where all 
 
 ## Software and Tools
 - **HDL Language**: Verilog
-- **FPGA Tool**: Intel Quartus Prime
+- **FPGA Tool**: Intel Quartus Prime lite (version- 21.1)
 - **Simulation**: ModelSim / Quartus Simulator
 - **Programming Method**: JTAG
 
@@ -161,7 +161,7 @@ SPEED_DIV = 3,000,000    // Speed control
 4. Ensure common ground between FPGA and servo power
 
 ### 2. Program FPGA
-1. Open Quartus Prime
+1. Open Quartus Prime lite ( use*version 21.1)
 2. Load `roboarm.v` and `roboarm.qsf` files
 3. Compile the project
 4. Program the FPGA using JTAG
@@ -248,12 +248,5 @@ The project successfully demonstrates the implementation of a 3-DOF robotic arm 
 ---
 
 ## Author
-**Bhavan Poojari**
+**Pasala Bhavan Kumar **
 
-## License
-This project is open-source and available for educational purposes.
-
-## Acknowledgments
-- M.S. Ramaiah University of Applied Sciences
-- Intel Quartus Prime Development Team
-- Open-source robotics community
