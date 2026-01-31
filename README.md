@@ -17,7 +17,8 @@ This project presents the design and implementation of a 3-Degree-of-Freedom (3-
 *Complete GPIO pin assignment diagram for DE10-Lite showing JP1 and JP7 expansion headers*
 
 ### Final Assembled Hardware
-![Final Robotic Arm](images/final.jpeg)
+![final ](https://github.com/user-attachments/assets/427f9de3-f225-4d8c-b836-b9520f87cca4)
+
 *Fully assembled 3-DOF robotic arm with servo motors and gripper*
 
 ## Introduction
